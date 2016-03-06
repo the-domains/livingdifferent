@@ -1,7 +1,7 @@
 name: livingdifferent
 favicon: null
-layout_spectrum: 0.2829689474310726
-typography_spectrum: 0.6175801523495466
+layout_spectrum: 0.25603
+typography_spectrum: 0.51121
 title: livingdifferent
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#a6a6a6'
+    - '#5a5a5a'
+    - '#c8c8c8'
+    - '#323232'
+    - '#fcfcfc'
   brandStrength: 1
   lightness: 1
   saturation: 0.5

@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[livingdifferent]]></title>
         <description><![CDATA[livingdifferent]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://livingdifferent.org/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 07 Mar 2016 04:17:40 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 07 Mar 2016 04:20:07 GMT</lastBuildDate>
+        <atom:link href="http://livingdifferent.org/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f1577505-c022-4311-9e49-5a0012db7a47.jpg">]]></description>
-            <link>undefined23d80e15-bffe-46e2-a4a1-1b1888858129/index.html</link>
+            <link>http://livingdifferent.org/23d80e15-bffe-46e2-a4a1-1b1888858129/index.html</link>
             <guid isPermaLink="false">23d80e15-bffe-46e2-a4a1-1b1888858129</guid>
-            <pubDate>Mon, 07 Mar 2016 04:17:40 GMT</pubDate>
+            <pubDate>Mon, 07 Mar 2016 04:19:09 GMT</pubDate>
         </item>
     </channel>
 </rss>

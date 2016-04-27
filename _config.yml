@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: livingdifferent
 favicon: null
+name: livingdifferent
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.4677766
-layout_spectrum: 0
+layout_spectrum: 0.1433942

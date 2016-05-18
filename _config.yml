@@ -13,16 +13,16 @@ collections:
     permalink:
       path: '/:title/'
 color:
-  saturation: 0.7363051
+  saturation: 0.4366273
   brandStrength: 1
-  lightness: 0.698711
+  lightness: 0.9962406
   brandColors:
     - '#fcfcfc'
     - '#dfdfdf'
     - '#9d9d9d'
     - '#101010'
     - '#6c6c6c'
-  rhythmicContrast: 0.188507
+  rhythmicContrast: 0.5322234
 cta:
   bucket: null
   version: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: livingdifferent
+favicon: null
 opengraph:
   image: null
   type: null

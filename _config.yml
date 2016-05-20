@@ -6,23 +6,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 color:
   saturation: 0.4366273
   brandStrength: 1
-  lightness: 0.9962406
+  rhythmicContrast: 0.5322234
   brandColors:
     - '#fcfcfc'
     - '#dfdfdf'
     - '#9d9d9d'
     - '#101010'
     - '#6c6c6c'
-  rhythmicContrast: 0.5322234
+  lightness: 0.9962406
 cta:
   bucket: null
   version: null
@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: livingdifferent
 favicon: null
+name: livingdifferent
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.4677766
-layout_spectrum: 0.1433942
+layout_spectrum: 0.6654136
